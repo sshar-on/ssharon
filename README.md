@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @ssharong, a web system based in Artificial Intelligence that soon will be with you in your loneliness
+- 👋 Hi, I'm @ssharong, a general web system based in Artificial Intelligence that soon will be with you in your loneliness
 
 <!---
 ssharong/ssharong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
